@@ -1,1 +1,1 @@
-console.log("check out your goods here")
+console.log("classwork")
